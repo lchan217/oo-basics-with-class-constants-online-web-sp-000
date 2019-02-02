@@ -1,3 +1,3 @@
 class Book 
-  :g
+  attr_accessor :genres
 end 
