@@ -3,6 +3,6 @@ class Book
   GENRES = [] 
   def initialize(genre)
     @genre = genre
-    GENRES << @genres
+    GENRES << genres
   end 
 end 
