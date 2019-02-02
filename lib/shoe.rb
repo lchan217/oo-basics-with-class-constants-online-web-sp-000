@@ -8,6 +8,7 @@ class Shoe
     if !brand.include?(@brand)
       BRANDS << brand.
     else
+    end
   end 
   
 end 
